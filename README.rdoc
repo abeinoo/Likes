@@ -1,3 +1,6 @@
-##Liking Posts
+==Liking Posts
+
+
 the ability to like or favorite a post and submitting it via an AJAX request.
- Anyone is able to create a blog post and click on them and view, But ability for a user to click a link and Like the post.
+Anyone is able to create a blog post and click on them and view
+But ability for a user to click a link and Like the post.
